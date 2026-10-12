@@ -1,0 +1,6 @@
+{
+  "name": "MerchCraft AI - On-Demand Merch Mockups & Print Studio",
+  "description": "Upload your logo or graphics to generate photorealistic product shots, preview 3D merch warps, edit with AI text prompts using gemini-nano-banana-2.1, and export 300 DPI print-ready files and manufacturer tech packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
